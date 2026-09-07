@@ -20,6 +20,7 @@ My daily leetcode practice repository.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My daily leetcode practice repository.
 | [0088-merge-sorted-array](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -81,4 +83,12 @@ My daily leetcode practice repository.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
