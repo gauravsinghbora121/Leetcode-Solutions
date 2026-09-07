@@ -36,6 +36,7 @@ My daily leetcode practice repository.
 | [0344-reverse-string](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
@@ -91,4 +92,8 @@ My daily leetcode practice repository.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
