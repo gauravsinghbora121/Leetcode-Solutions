@@ -15,6 +15,7 @@ My daily leetcode practice repository.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ My daily leetcode practice repository.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -56,6 +58,7 @@ My daily leetcode practice repository.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,10 +101,19 @@ My daily leetcode practice repository.
 | [0141-linked-list-cycle](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gauravsinghbora121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
